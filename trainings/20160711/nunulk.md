@@ -8,7 +8,13 @@
 
 https://www.ymotongpoo.com/works/lyse-ja/ja/05_syntax_in_functions.html
 
+#### ソース
+
 src/nunulk/20160711/function.erl
+
+#### Qiita 記事
+
+http://qiita.com/nunulk/items/d0b0ef3164a131844459
 
 ### 困ったこと
 
